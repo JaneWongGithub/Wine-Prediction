@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 
 #Libraries for Statitistical Models
-import statsmodels.api as sm
+import statsmodels.api as model
 
 #Libraries for Saving the Model
 from pickle import dump
